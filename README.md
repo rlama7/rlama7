@@ -11,6 +11,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun family hike in the park
 
+### Connect with me: 
+[<img align="left" alt="ratnalama.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ratna-lama" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 <br /> <br />
 
