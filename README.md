@@ -1,11 +1,5 @@
 ### Hi there, I'm Ratna 👋 [website]
 
-<!--
-**rlama7/rlama7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
--->
-
 ## A self-starter software engineer with knowledge of multi-paradigm languages and techniques of software development in multi-paradigm environment.
 
 - 🔭 I’m currently working on Mastering FullStack Development and AWS
