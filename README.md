@@ -1,5 +1,6 @@
 ### Hi there, I'm Ratna 👋 [website]
 
+### About: 
 ## A self-starter software engineer with knowledge of multi-paradigm languages and techniques of software development in multi-paradigm environment.
 
 - 🔭 I’m currently working on Mastering FullStack Development and AWS
