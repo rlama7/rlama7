@@ -7,7 +7,7 @@
 - 🌱 I’m currently building SEO multi-user blogging platform
 - 👯 I’m looking for new opportunities as a FullStack Developer
 - 🤔 I’m looking for help with Mastering Software Architecture Role
-- 💬 Ask me about how I got where I'm today as a software developer with modest beginning
+- 💬 Ask me about how I contribute if you are building the next great product from the ground-up
 - 📫 How to reach me: [resume]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun family hike in the park
@@ -32,7 +32,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 
 <br /> <br />
 
