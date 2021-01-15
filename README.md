@@ -35,7 +35,7 @@
 [<img align="left" alt="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />]
 
 Backend {
-    [<img align="left" alt="Java" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />]
+    [java]
 
 }
 
@@ -83,3 +83,4 @@ VersionControl {
 [website]: https://ratnalama.com/
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
 [resume]: https://ratnalama.com/RatnaKLamaResume.pdf
+[java] : [<img align="left" alt="Java" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />]
