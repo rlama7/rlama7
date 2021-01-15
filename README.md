@@ -50,7 +50,8 @@
 <img alt="Trello" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />
 <img alt="Linux" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
 <img alt="GNU Bash" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bash.svg" />
-<img alt="VisualStudioCode" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+<img alt="Slack" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
+<img alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
 
 <br /> <br />
 
