@@ -16,7 +16,7 @@
 [<img align="left" alt="ratnalama.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ratna-lama-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br /> <br />
 
 ### Languages and Tools:
 
