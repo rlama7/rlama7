@@ -19,3 +19,9 @@
 <br /> <br />
 
 ### Languages and Tools
+
+<br /> <br />
+
+[website]: https://ratnalama.com 
+[linkedin]: https://www.linkedin.com/in/ratna-lama/
+[resume]: https://ratnalama.com/RatnaKLamaResume.pdf
