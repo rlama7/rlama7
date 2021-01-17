@@ -34,11 +34,8 @@
 <img align="left" alt="Python" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
 <img align="left" alt="Python Flask" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" />
 <img align="left" alt="SQL/MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />
-<img align="left" alt="MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img align="left" alt="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />
 <img align="left" alt="AWS" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />
-<img align="left" alt="EC2" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
-<img align="left" alt="S3" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img align="left" alt="Google Cloud Platform" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />
 <img align="left" alt="Git" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
 <img align="left" alt="GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
@@ -49,9 +46,14 @@
 <img align="left" alt="Jira" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jira.svg" />
 <img align="left" alt="Trello" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />
 <img align="left" alt="Linux" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
-<img align="left" alt="GNU Bash" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bash.svg" />
+<img align="left" alt="GNU Bash" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />
 <img align="left" alt="Slack" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
 <img align="left" alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
+
+<br /> <br />
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=radical)
+
 
 <br /> <br />
 
