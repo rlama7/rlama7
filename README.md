@@ -15,7 +15,7 @@
 ### Connect with me: 
 [<img align="left" alt="ratnalama.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ratna-lama-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-#
+
 
 <br /> <br /> <br /> <br />
 
@@ -51,14 +51,15 @@
 <img align="left" alt="Slack" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
 <img align="left" alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
 
-#
 
-<br /> <br />
-<br /> <br />
+<br /> <br /> <br /> <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
-#
+<br /> <br /> <br /> <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br /> <br />
 
