@@ -51,8 +51,9 @@
 <img align="left" alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
 
 <br /> <br />
+<br /> <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight)
 
 
 <br /> <br />
