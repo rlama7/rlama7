@@ -3,14 +3,14 @@
 ### About: 
 # A self-starter software engineer with knowledge of multi-paradigm languages and techniques of software development in multi-paradigm environment.
 
-- 🔭 I’m currently working on Mastering FullStack Development and AWS
-- 🌱 I’m currently building SEO multi-user blogging platform
-- 👯 I’m looking for new opportunities as a FullStack Developer
-- 🤔 I’m looking for help with Mastering Software Architecture Role
-- 💬 Ask me about how I contribute if you are building the next great product from the ground-up
-- 📫 How to reach me: [resume]
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun family hike in the park
+- 🔭  I’m currently working on Mastering FullStack Development and AWS.
+- 🌱  I’m currently building SEO multi-user blogging platform.
+- 👯  I’m looking for new opportunities as a FullStack Developer.
+- 🤔  I’m looking for help with Mastering Software Architecture Role.
+- 💬. Ask me about how I can contribute if you are building the next great product from the ground-up.
+- 📫. How to reach me: [resume].
+- 🥅. 2020 Goals: Contribute more to Open Source projects.
+- ⚡   Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike in the park.
 
 ### Connect with me: 
 [<img align="left" alt="ratnalama.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
