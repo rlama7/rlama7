@@ -27,6 +27,8 @@ experience in the complete product development lifecycle of successfully launche
 [<img align="left" alt="ratnalama.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ratna-lama-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br /><br />
+
 ## Languages and Tools
 
 <img align="left" alt="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
@@ -61,9 +63,7 @@ experience in the complete product development lifecycle of successfully launche
 
 <br /><br />
 
-```
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
-```
 
 <br /><br />
 
@@ -74,7 +74,3 @@ experience in the complete product development lifecycle of successfully launche
 [website]: https://ratnalama.com
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
 [resume]: https://ratnalama.com/RatnaKLamaResume.pdf
-
-```
-
-```
