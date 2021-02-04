@@ -1,4 +1,4 @@
-## Hi there, I'm Ratna 👋 [website]
+## Hi there, I'm Ratna 👋 [website]|[linkedin]|[resume]
 
 ## About:
 
@@ -16,7 +16,7 @@ experience in the complete product development lifecycle of successfully launche
 - 👯 I’m looking for new opportunities as a Full Stack Developer/Backend Engineer/Frontend Engineer.
 - 🤔 I’m looking for help with Mastering Software Architecture Role.
 - 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
-- 📫 How to reach me: [resume].
+- 📫 How to reach me: rlama[at]ratnalama[dot]com
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike.
 
