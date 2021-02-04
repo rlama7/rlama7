@@ -1,8 +1,12 @@
 ## Hi there, I'm Ratna 👋 [website]
 
-### About:
+## About:
 
-# A self-starter software engineer with knowledge of multi-paradigm languages and techniques of software development in multi-paradigm environment.
+```
+- A self-starter software engineer with knowledge of multi-paradigm languages and techniques of software development in multi-paradigm environment.
+
+- Enthusiastic Full Stack Developer / Backend Engineer / Frontend Engineer / Software Engineer with 1.5 years of enterprise-level experience and 2 years of professional software development experience in the complete product development lifecycle of successfully launched applications.
+
 
 - 🔭 I’m currently working on Mastering FullStack Development and AWS.
 - 🌱 I’m currently building SEO multi-user blogging platform.
@@ -13,15 +17,18 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike.
 
-### Connect with me:
+```
 
+## Connect with me:
+
+```
 [<img align="left" alt="ratnalama.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ratna-lama-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+```
 
-<br /> <br /> <br /> <br />
+## Languages and Tools
 
-### Languages and Tools
-
+```
 <img align="left" alt="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img align="left" alt="NodeJS" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
 <img align="left" alt="Express" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
@@ -51,8 +58,7 @@
 <img align="left" alt="GNU Bash" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />
 <img align="left" alt="Slack" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
 <img align="left" alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
-
-<br /> <br /> <br /> <br />
+```
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
@@ -65,3 +71,7 @@
 [website]: https://ratnalama.com
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
 [resume]: https://ratnalama.com/RatnaKLamaResume.pdf
+
+```
+
+```
