@@ -73,6 +73,7 @@ experience in the complete product development lifecycle of successfully launche
 
 ## Footer
 
+© 2017 -2021 ratnalama.com. All rights reserved.
 [website]|[linkedin]|[resume]
 
 <!-- LINKs -->
