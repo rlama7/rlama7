@@ -79,4 +79,4 @@ experience in the complete product development lifecycle of successfully launche
 
 [website]: https://ratnalama.com
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
-[resume]: https://ratnalama.com/RatnaKLamaResume.pdf
+[resume]: app.rezi.io/s/yAq9eiEzp2qf6RZqZoL9
