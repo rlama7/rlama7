@@ -61,21 +61,24 @@ experience in the complete product development lifecycle of successfully launche
 <img align="left" alt="Slack" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
 <img align="left" alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
 
-<br /><br />
+<br /><br /><br />
 
-##
+## GitHub Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
-##
+## Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Footer
 
+© 2017 -2021 ratnalama.com. All rights reserved.
+<br />
+<br />
 [website]|[linkedin]|[resume]
 
-##
+<!-- LINKs -->
 
 [website]: https://ratnalama.com
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
