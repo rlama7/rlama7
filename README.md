@@ -61,9 +61,9 @@ experience in the complete product development lifecycle of successfully launche
 <img align="left" alt="Slack" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
 <img align="left" alt="Zoom" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
 
-<br /><br />
+<br /><br /><br />
 
-## Github Stats
+## GitHub Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
