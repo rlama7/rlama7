@@ -71,11 +71,11 @@ experience in the complete product development lifecycle of successfully launche
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Footer
 
 [website]|[linkedin]|[resume]
 
-## Footer
+<!-- LINKs -->
 
 [website]: https://ratnalama.com
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
