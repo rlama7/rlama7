@@ -1,4 +1,4 @@
-## Hi there, I'm Ratna 👋 [website]|[linkedin]|[resume]
+## Hi there, I'm Ratna 👋 [website] | [linkedin] | [resume]
 
 ## About:
 
@@ -76,7 +76,7 @@ experience in the complete product development lifecycle of successfully launche
 © 2017 -2021 ratnalama.com. All rights reserved.
 <br />
 <br />
-[website]|[linkedin]|[resume]
+[website] | [linkedin] | [resume]
 
 <!-- LINKs -->
 
