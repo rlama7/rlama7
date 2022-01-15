@@ -7,8 +7,8 @@
 of software development in multi-paradigm environment.
 
 - Enthusiastic Full Stack Developer / Backend Engineer / Frontend Engineer / Software Engineer
-with 1.5 years of enterprise-level experience and 2 years of professional software development
-experience in the complete product development lifecycle of successfully launched applications.
+with combined 4 years of enterprise-level and professional software development experience in 
+the complete product development lifecycle of successfully launched applications.
 
 
 - 🔭 I’m currently working on Mastering FullStack Development and AWS.
@@ -18,7 +18,7 @@ experience in the complete product development lifecycle of successfully launche
 - 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
 - 📫 How to reach me: rlama[at]ratnalama[dot]com
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike.
+- ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike to explore nature.
 
 ```
 
@@ -73,7 +73,7 @@ experience in the complete product development lifecycle of successfully launche
 
 ## Footer
 
-© 2017 -2021 ratnalama.com. All rights reserved.
+© 2017 -2022 ratnalama.com. All rights reserved.
 <br />
 <br />
 [website] | [linkedin] | [resume]
