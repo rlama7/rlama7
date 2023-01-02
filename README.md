@@ -17,7 +17,10 @@ the complete product development lifecycle of successfully launched applications
 - 🤔 I’m looking for help with Mastering Software Architecture Role.
 - 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
 - 📫 How to reach me: rlama[at]ratnalama[dot]com
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: 
+  - Learn Rust
+  - Learn Blockchain
+  - Contribute more to Open Source projects.
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike to explore nature.
 
 ```
