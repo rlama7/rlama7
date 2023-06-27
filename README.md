@@ -194,7 +194,6 @@ JavaScript, ES6, Typescript, HTML, CSS, SASS, SCSS, NodeJS, Express, React, Next
 
 <!-- LINKs -->
 
-<!-- [website]: https://ratnalama.com -->
-
+[website]: https://ratnalama.com
 [linkedin]: https://www.linkedin.com/in/ratna-lama/
 [resume]: https://app.rezi.ai/s/sZXpwKMnUpBBdZRT9y2d
