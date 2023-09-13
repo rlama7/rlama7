@@ -1,16 +1,21 @@
 ## Hi there, I'm Ratna 👋 [website] | [linkedin]
 
-<br>
+<br />
 
 ## ABOUT:
 
 - I am a Software Engineer with 5+ years of rich experience, deeply entrenched in the entire lifecycle of numerous successful application deployments.
--  My forte lies in collaborative teamwork, consistently leading to the delivery of high-quality projects in record time.
--  This makes me an apt fit for roles spanning React Developer, JavaScript Developer, Frontend Developer, to Full Stack Developer positions.
+- My forte lies in collaborative teamwork, consistently leading to the delivery of high-quality projects in record time.
+- This makes me an apt fit for roles spanning React Developer, JavaScript Developer, Frontend Developer, to Full Stack Developer positions.
+
+<br />
+
+- 👯 Open to new opportunities as a **React Developer** || **JavaScript Developer** || **Frontend Developer** || **Full Stack Developer** remote or Hybrid settings in San Francisco Bay Area, USA.
+
+<br />
 
 - 🔭 I’m currently working on Mastering FullStack Development and AWS.
 - 🌱 I’m currently building SEO multi-user blogging platform.
-- 👯 Open to new opportunities as a **React Developer** || **JavaScript Developer** || **Frontend Developer** || **Full Stack Developer** remote or Hybrid settings in San Francisco Bay Area, USA.
 - 🤔 I’m learning how to master Software Architect Role.
 - 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
 - 📫 How to reach me: [contact]
@@ -19,9 +24,7 @@
   - Learn Blockchain
   - Contribute more to Open Source projects.
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike to explore nature.
-<br>
-<br>
-
+<br /><br />
 
 ## Connect with me:
 
