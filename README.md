@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently working on Mastering FullStack Development and AWS.
 - 🌱 I’m currently building SEO multi-user blogging platform.
-- 👯 Open to new opportunities as a React Developer || JavaScript Developer || Frontend Developer || Full Stack Developer remote or Hybrid settings in San Francisco Bay Area, USA.
-- 🤔 I’m learning how to master Software Architecture Role.
+- 👯 Open to new opportunities as a **React Developer** || **JavaScript Developer** || **Frontend Developer** || **Full Stack Developer** remote or Hybrid settings in San Francisco Bay Area, USA.
+- 🤔 I’m learning how to master Software Architect Role.
 - 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
 - 📫 How to reach me: [contact]
 - 🥅 2023 Goals:
