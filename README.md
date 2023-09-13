@@ -20,6 +20,7 @@
 - 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
 
 <br />
+
 - 🥅 2023 Goals:
   - Learn Rust
   - Learn Blockchain
