@@ -25,6 +25,9 @@
   - Learn Rust
   - Learn Blockchain
   - Contribute more to Open Source projects.
+
+<br />
+
 - ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike to explore nature.
 <br /><br />
 
@@ -79,11 +82,8 @@
 
 <!-- ## Footer -->
 
-<br />
-<br	/>
+<br /><br	/>
 © 2017 -2023 ratnalama.com. All rights reserved.
-
-<br />
 <br />
 
 [website] | [linkedin]
