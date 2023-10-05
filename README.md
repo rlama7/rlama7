@@ -1,34 +1,49 @@
-## Hi there, I'm Ratna 👋 [website] | [linkedin]
+## Hi there, I'm Ratna 👋 [Portfolio] | [Linkedin] | [Contact]
 
 <br />
 
 ## ABOUT:
 
-- I am a Software Engineer with 5+ years of rich experience, deeply entrenched in the entire lifecycle of numerous successful application deployments.
-- My forte lies in collaborative teamwork, consistently leading to the delivery of high-quality projects in record time.
-- This makes me an apt fit for roles spanning React Developer, JavaScript Developer, Frontend Developer, to Full Stack Developer positions.
+Certainly, here's a suggestion for your GitHub profile bio that can make a strong impact on potential employers:
 
-<br />
+---
 
-- 👯 Open to new opportunities as a **React Developer** || **JavaScript Developer** || **Frontend Developer** || **Full Stack Developer** remote or Hybrid settings in San Francisco Bay Area, USA.
-- 📫 How to reach me: [contact]
-<br />
+🚀 Software Engineer | 5+ Years Experience | Frontend Developer | React Developer | JavaScript Developer | Full Stack Developer
 
-- 🔭 I’m currently working on Mastering FullStack Development and AWS.
-- 🌱 I’m currently building SEO multi-user blogging platform.
-- 🤔 I’m learning how to master Software Architect Role.
-- 💬 Ask me about how I can contribute if you are building the next great product from the ground-up.
+---
 
-<br />
+👋 Welcome to my GitHub! I'm a passionate Software Engineer with over 5 years of experience, dedicated to delivering excellence throughout the entire project lifecycle.
 
-- 🥅 2023 Goals:
-  - Learn Rust
-  - Learn Blockchain
-  - Contribute more to Open Source projects.
+💼 I thrive in collaborative team environments, consistently leading projects to success by fostering innovation, adhering to best practices, and meeting deadlines with precision.
 
-<br />
+🎯 My expertise spans a wide range of roles, making me a versatile fit for your team:
+   - 💻 React Developer
+   - 🚀 JavaScript Developer
+   - 🌐 Frontend Developer
+   - 🛠️ Full Stack Developer
 
-- ⚡ Fun fact: I enjoy coding, reading, yoga, cooking and fun filled family hike to explore nature.
+💡 Currently, I'm honing my skills in:
+   - 🌐 Mastering FullStack Development
+   - ☁️ Exploring AWS Cloud Services
+   - 📈 Building a cutting-edge SEO multi-user blogging platform
+
+🤓 I'm also on a journey to master the role of a Software Architect and always excited to contribute to projects that are shaping the future.
+
+🚀 In 2023, my goals include:
+   - 🦀 Learning Rust
+   - 🔗 Exploring the world of Blockchain
+   - 🌱 Increasing contributions to Open Source projects
+
+⚡ When I'm not coding, you can find me:
+   - 📚 Reading
+   - 🧘 Practicing yoga
+   - 👨‍🍳 Cooking up new recipes
+   - 🌳 Enjoying fun-filled family hikes to connect with nature
+
+📫 Feel free to reach out if you're interested in collaborating or have exciting opportunities on the horizon. Let's build something amazing together!
+
+---
+
 <br /><br />
 
 ## Connect with me:
@@ -91,6 +106,6 @@
 
 <!-- LINKs -->
 
-[website]: https://ratnalama.com
-[linkedin]: https://www.linkedin.com/in/ratna-lama/
-[contact]: https://ratnalama.com/#contact
+[Portfolio]: https://ratnalama.com
+[Linkedin]: https://www.linkedin.com/in/ratna-lama/
+[Contact]: https://ratnalama.com/#contact
