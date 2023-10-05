@@ -4,8 +4,6 @@
 
 ## ABOUT:
 
-Certainly, here's a suggestion for your GitHub profile bio that can make a strong impact on potential employers:
-
 ---
 
 🚀 Software Engineer | 5+ Years Experience | Frontend Developer | React Developer | JavaScript Developer | Full Stack Developer
