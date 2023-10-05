@@ -77,9 +77,9 @@
 
 <br /><br /><br />
 
+<!-- 
 ## GitHub Stats
 
-<!-- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true) -->
 
 ## Language Stats
@@ -99,4 +99,4 @@
 
 [Portfolio]: https://ratnalama.com
 [Linkedin]: https://www.linkedin.com/in/ratna-lama/
-[Contact]: https://ratnalama.com/#contact
+[Contact]: https://ratnalama.com/#:~:text=GET%20IN%20TOUCH-,Contact.,-Your%20Name
