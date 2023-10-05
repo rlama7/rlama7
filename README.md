@@ -79,7 +79,8 @@
 
 ## GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<!-- 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlama7&show_icons=true&theme=tokyonight&count_private=true&show_icons=true) -->
 
 ## Language Stats
 
@@ -91,7 +92,7 @@
 © 2017 -2023 ratnalama.com. All rights reserved.
 <br />
 
-[website] | [linkedin]
+[Portfolio] | [Linkedin] | [Contact]
 
 
 <!-- LINKs -->
