@@ -84,12 +84,16 @@
 
 ## Language Stats
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## Footer -->
 
 <br /><br	/>
+
 © 2017 -2023 ratnalama.com. All rights reserved.
+
 <br />
 
 [Portfolio] | [Linkedin] | [Contact]
