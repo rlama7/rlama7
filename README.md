@@ -99,4 +99,4 @@
 
 [Portfolio]: https://ratnalama.com
 [Linkedin]: https://www.linkedin.com/in/ratna-lama/
-[Contact]: https://ratnalama.com/#:~:text=GET%20IN%20TOUCH-,Contact.,-Your%20Name
+[Contact]: https://ratnalama.com/#:~:text=Prof.%20at%20SFSU-,GET,-IN%20TOUCH
