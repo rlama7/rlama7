@@ -27,7 +27,7 @@
 
 🤓 I'm also on a journey to master the role of a Software Architect and always excited to contribute to projects that are shaping the future.
 
-🚀 In 2023, my goals include:
+🚀 In 2025, my goals include:
    - 🦀 Learning Rust
    - 🔗 Exploring the world of Blockchain
    - 🌱 Increasing contributions to Open Source projects
