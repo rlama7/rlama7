@@ -94,7 +94,7 @@
 
 <br /><br	/>
 
-© 2017 -2023 ratnalama.com. All rights reserved.
+© 2017 - 2025 ratnalama.com. All rights reserved.
 
 <br />
 
