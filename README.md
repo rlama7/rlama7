@@ -40,6 +40,8 @@
 
 📫 Feel free to reach out if you're interested in collaborating or have exciting opportunities on the horizon. Let's build something amazing together!
 
+[Portfolio] | [Linkedin] | [Contact]
+
 ---
 
 <br /> <br />
