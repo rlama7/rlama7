@@ -6,11 +6,11 @@
 
 ---
 
-🚀 Software Engineer | 5+ Years Experience | Frontend Developer | React Developer | JavaScript Developer | Full Stack Developer
+🚀 Senior Frontend Engineer | React | JavaScript | TypeSCript | Scalable UI Development
 
 ---
 
-👋 Welcome to my GitHub! I'm a passionate Software Engineer with over 5 years of experience, dedicated to delivering excellence throughout the entire project lifecycle.
+👋 Welcome to my GitHub! I'm a passionate Software Engineer with over 5+ years of experience, dedicated to delivering excellence throughout the entire project lifecycle.
 
 💼 I thrive in collaborative team environments, consistently leading projects to success by fostering innovation, adhering to best practices, and meeting deadlines with precision.
 
@@ -88,7 +88,7 @@
 
 ## Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7&langs_count=10&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## Footer -->
 
