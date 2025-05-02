@@ -8,6 +8,18 @@
 
 🚀 **Senior Frontend Engineer** | React | JavaScript | TypeScript | Scalable UI Development
 
+
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)
+![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwind-css&style=flat-square)
+
 ---
 
 👋 Welcome to my GitHub! I'm a passionate Software Engineer with over **5+ years** of experience, dedicated to delivering excellence throughout the entire project lifecycle.
@@ -108,21 +120,6 @@
 - Coming soon: Blog post updates via RSS or GitHub Actions! Stay tuned.
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
-## 🚀 Tech Stack Badges
-
-![React](https://img.shields.io/badge/-React-black?logo=react&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-black?logo=express&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code&style=flat-square)
-
----
 <br />
 
 ## 👁️ Visitor Count
