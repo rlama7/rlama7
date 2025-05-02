@@ -81,6 +81,8 @@
   <img alt="Zoom" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zoom.svg" />
 </p>
 
+<br />
+
 ## 📊 Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlama7&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -99,17 +101,11 @@
 
 <br />
 
-## 👁️ Visitor Count
-
-![](https://komarev.com/ghpvc/?username=rlama7&color=blueviolet)
-
-<br />
-
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Coming soon: Automated blog post updates via RSS or GitHub Actions!]
+- Coming soon: Blog post updates via RSS or GitHub Actions! Stay tuned.
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -127,6 +123,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code&style=flat-square)
 
 ---
+<br />
+
+## 👁️ Visitor Count
+
+![](https://komarev.com/ghpvc/?username=rlama7&color=blueviolet)
+
+<br />
 
 © 2017 - 2025 ratnalama.com. All rights reserved.
 
