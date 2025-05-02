@@ -89,7 +89,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rlama7&theme=monokai&row=2&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rlama7&theme=monokai&title=committer,issue,reviewer,stars,followers,contributor,pullRequest,discussions)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
