@@ -4,7 +4,7 @@
 
 <br />
 
-## 🧑‍💻 ABOUT:
+## 🧑‍💻 About
 
 🚀 **Senior Frontend Engineer** | React | JavaScript | TypeScript | Scalable UI Development
 
