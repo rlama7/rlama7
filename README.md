@@ -10,6 +10,7 @@
 
 
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-black?logo=express&style=flat-square)
