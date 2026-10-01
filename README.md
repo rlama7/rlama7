@@ -151,6 +151,6 @@ I've spent 7+ years building React and TypeScript applications, from PHI-regulat
 ---
 
 <p align="center">
-  Open to <b>Senior Frontend Engineer</b> roles · San Francisco Bay Area · Remote / Hybrid/ On-site<br/>
+  Open to <b>Senior Frontend Engineer</b> roles · San Francisco Bay Area · Remote / Hybrid / On-site<br/>
   <a href="https://www.linkedin.com/in/ratna-lama/">LinkedIn</a> · <a href="https://ratnalama.com">Portfolio</a>
 </p>
