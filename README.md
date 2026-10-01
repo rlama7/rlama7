@@ -79,14 +79,14 @@ I've spent 7+ years building React and TypeScript applications, from PHI-regulat
 
 > Enterprise work is proprietary. These summaries describe architecture and outcomes, not code.
 
-| Context                           | Problem                                                                              | Key Decision                                                                             | Outcome                                        |
-| --------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **Centene** · Healthcare (PHI)    | Slow adoption of agentic AI workflow                                                 | Augumented AI across the SDLC                                                            | **12 apps** onboarded, **0** release rollbacks |
-| **Centene** · Healthcare (PHI)    | Security findings and PHI/PII exposure risk                                          | Put data-handling safeguards inside shared frontend libraries instead of fixing each app | **30+** SonarQube findings cleared             |
-| **Siemens** · Industrial SaaS     | Slow initial loads on data-heavy views                                               | Route-level code splitting, lazy loading and parallelized API requests                   | **25%** faster page loads                      |
-| **Siemens** · Industrial SaaS     | Legacy untyped components with brittle tests                                         | Refactored to typed, Jest-tested React patterns                                          | Coverage **50% → 80%**, tech debt **−30%**     |
-| **Williams-Sonoma** · E-commerce  | Product Info Page inconsistent with the design system                                | Built Storybook-documented component integration                                         | **98%** pixel accuracy, WCAG-conformant        |
-| **Shaklee** · Health and Wellness | Lacking behind competition with personal recommendation engine for personal wellness | Contributed to build personal recommendation engine interface built from scratch         | **20%** web traffic growth and engagement      |
+| Context                            | Problem                                                                              | Key Decision                                                                             | Outcome                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **Centene** · Healthcare (PHI/PII) | Slow adoption of agentic AI workflow                                                 | Augumented AI across the SDLC                                                            | **12 apps** onboarded, **0** release rollbacks |
+| **Centene** · Healthcare (PHI/PII) | Security findings and PHI/PII exposure risk                                          | Put data-handling safeguards inside shared frontend libraries instead of fixing each app | **30+** SonarQube findings cleared             |
+| **Siemens** · Industrial SaaS      | Slow initial loads on data-heavy views                                               | Route-level code splitting, lazy loading and parallelized API requests                   | **25%** faster page loads                      |
+| **Siemens** · Industrial SaaS      | Legacy untyped components with brittle tests                                         | Refactored to typed, Jest-tested React patterns                                          | Coverage **50% → 80%**, tech debt **−30%**     |
+| **Williams-Sonoma** · E-commerce   | Product Info Page inconsistent with the design system                                | Built Storybook-documented component integration                                         | **98%** pixel accuracy, WCAG-conformant        |
+| **Shaklee** · Health and Wellness  | Lacking behind competition with personal recommendation engine for personal wellness | Contributed to build personal recommendation engine interface built from scratch         | **20%** web traffic growth and engagement      |
 
 ---
 
@@ -102,11 +102,24 @@ I've spent 7+ years building React and TypeScript applications, from PHI-regulat
 ### Forexkarma — Founding Engineer
 
 **Tech:** JavaScript · HTML · SCSS · CDN · AWS
-
 **Problem / Architecture:** Needed organic acquisition with no ad budget. Built an SEO-first page architecture served from a CDN, so every page was fast and fully crawlable.
-
 **Impact:** **0 → 50K monthly visits** across **80+** SEO-optimized pages.
 [Live Site](https://forexkarma.com)
+
+### Artificial Intelligence — Regression Analysis
+
+**Tech:** Python · ML · AI
+**Problem / Architecture:** Led a 3-student team to build and evaluate a regression model for housing price prediction using Kaggle competition data.
+**Impact:** Ranked in the top 30% of Kaggle submissions.
+[Repository](https://github.com/rlama7/RegressionAnalysis)
+
+### Youtube Clone
+
+**Tech:** React · Rapid API · AWS · TailwindCSS · AWS
+**Problem / Architecture:** Built a React based Youtube clone with Rapid API and AWS services.
+**Impact:** Implemented Git, GitHub, and GitHub Actions for seamless CICD, enhancing video streaming efficiency and user experience.
+[Repository](https://github.com/rlama7/youtube-clone) |
+[Live Site](https://github.com/rlama7/youtube-clone)
 
 <!-- ### iDevCamp — Bootcamp Directory Platform -->
 
@@ -130,7 +143,7 @@ I've spent 7+ years building React and TypeScript applications, from PHI-regulat
 
 ## GitHub Analytics
 
-- **Public repositories:** 128, spanning production-style React apps, MERN projects and CS fundamentals (algorithms, data structures, and system design)
+- **Public repositories:** 128, spanning production-style React apps, MERN projects and CS fundamentals
 - **Primary languages:** TypeScript · JavaScript · HTML/CSS
 - **Current focus:** React, Next.js App Router, design-system tooling, Core Web Vitals, Performance
 - **AI:** Agentic AI augmentation throughout SDLC
