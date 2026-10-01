@@ -130,7 +130,7 @@ I've spent 7+ years building React and TypeScript applications, from PHI-regulat
 
 ## GitHub Analytics
 
-- **Public repositories:** 128, spanning production-style React apps, MERN projects and CS fundamentals
+- **Public repositories:** 128, spanning production-style React apps, MERN projects and CS fundamentals (algorithms, data structures, and system design)
 - **Primary languages:** TypeScript · JavaScript · HTML/CSS
 - **Current focus:** React, Next.js App Router, design-system tooling, Core Web Vitals, Performance
 - **AI:** Agentic AI augmentation throughout SDLC
